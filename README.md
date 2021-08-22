@@ -15,14 +15,61 @@ A screenshot of the console output immediately after you have successfully submi
 
 A screenshot of the console output immediately after you have successfully issued a smart contract calls on Layer 2.
 
+![image](https://user-images.githubusercontent.com/5809685/130358635-e2e8081f-11b0-41a0-831e-a7e5e932b1d1.png)
+
+
 
 The transaction hash of the "Contract call" from the console output (in text format).
+
+``
+0xb69859d0fdb75a54784eefe5dde22e35fba989120195c2c25f476dc196a081dc
+``
 
 
 The contract address that you called (in text format).
 
+``
+0x169068F7D330cBB087F0C80377C99AD3620e6E31
+``
+
 
 The ABI for contract you made a call on (in text format).
+
+``
+[
+    {
+      "inputs": [],
+      "stateMutability": "payable",
+      "type": "constructor"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "x",
+          "type": "uint256"
+        }
+      ],
+      "name": "set",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "get",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ]
+``
 
 
 Your Tron address (in text format).
