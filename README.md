@@ -9,8 +9,22 @@ https://explorer.nervos.org/aggron/address/ckt1qyqz40777zcjtn6aqhds2fk0aagycgh76
 
 
 A screenshot of the console output immediately after you have successfully submitted a CKByte deposit to your Tron account on Layer 2.
+
+![image](https://user-images.githubusercontent.com/5809685/130352988-12c4dfbb-986e-4b28-8fed-1acb7d787baf.png)
+
+
 A screenshot of the console output immediately after you have successfully issued a smart contract calls on Layer 2.
+
+
 The transaction hash of the "Contract call" from the console output (in text format).
+
+
 The contract address that you called (in text format).
+
+
 The ABI for contract you made a call on (in text format).
+
+
 Your Tron address (in text format).
+
+TJEyBxH8fffAt1ahi3AeAsHNBPAPZe9Xv4
